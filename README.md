@@ -31,7 +31,7 @@ In this project, we are asked to build a serverless data engineering pipeline. I
 
 * Usage of an example:
 
-Url "http://127.0.0.1:8000/query/<English phrase>" translates an input English phrase into Chinese.
+Url "http://127.0.0.1:8000/query/\<English\ phrase\>" translates an input English phrase into Chinese.
 
 <img width="642" src="assets/2.png">
 
