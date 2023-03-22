@@ -31,7 +31,7 @@ In this project, we are asked to build a serverless data engineering pipeline. I
 
 * Usage example:
 
-Url "127.0.0.1:8000/query/<English\ phrase>" translates an input English phrase into Chinese.
+Url "127.0.0.1:8000/query/<English phrase>" translates an input English phrase into Chinese.
 
 <img width="642" src="assets/2.png">
 
@@ -44,7 +44,7 @@ Url "127.0.0.1:8000/query/<English\ phrase>" translates an input English phrase 
 
 <img width="642" src="assets/3.png">
 
-* The service will be available at <your project name>.shuttleapp.rs. For example:
+* The service will be available at \<your project name\>.shuttleapp.rs. For example:
 
 <img width="642" src="assets/4.png">
 
