@@ -29,7 +29,7 @@ In this project, we are asked to build a serverless data engineering pipeline. I
 
 `cargo shuttle run` 
 
-* Usage of an example:
+* Usage example:
 
 Url "127.0.0.1:8000/query/<English\ phrase>" translates an input English phrase into Chinese.
 
